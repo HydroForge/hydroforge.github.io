@@ -11,11 +11,11 @@ title: Max Fefer
 # Description of the Site
 description: Tabletop Roleplaying Game Designer
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/max.jpg
+site-image: /hydroforge.github.io/assets/images/max.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: /WhatATheme/assets/images/hydroforge.jpg
+favicon-url: /hydroforge.github.io/assets/images/hydroforge.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -44,7 +44,7 @@ disqus-shortname: "%"
 # Name of the Author
 author-name: Max Fefer
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/max.jpg
+author-image: /hydroforge.github.io/assets/images/max.jpg
 # 60 Words About the Author
 author-about: Max is an aspiring tabletop roleplaying game designer (TTRPG) that focuses on lyrical and GM-less style games. Max's credits include working on the upcoming Unbreakable RPG projects and Mnemonic RPG.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
