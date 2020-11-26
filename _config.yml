@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/max.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /WhatATheme/assets/images/hydroforge.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -39,12 +39,12 @@ spotify_username: "%"
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: "%"
 
 # Name of the Author
 author-name: Max Fefer
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /WhatATheme/assets/images/max.jpg
 # 60 Words About the Author
 author-about: Max is an aspiring tabletop roleplaying game designer (TTRPG) that focuses on lyrical and GM-less style games. Max's credits include working on the upcoming Unbreakable RPG projects and Mnemonic RPG.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
